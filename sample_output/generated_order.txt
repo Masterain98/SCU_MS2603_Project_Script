@@ -1,0 +1,1609 @@
+{'37A8QSOPSPTV': 68.95, '3NP9UY9TSA8A': 15.0, '45Z11J0BASMK': 12.0, '56XC3HZMA343': 66.53, '6HZFQ847PK0T': 55.47, '70FCNF9ZQC0C': 113.62, '7KINPC321XTR': 291.31, '7SVF64IVF2ZY': 49.71, '8ACIORIGSR0Y': 24.0, 'E59FCNY5ILRY': 20.54, 'FWR4F1VYAJTW': 27.0, 'HTQEBULS304F': 188.16, 'LZAQFRFRL38K': 122.57, 'UQDE1NHIT0H3': 65.95, 'YXE4BA0B49OF': 54.03}
+[{'customer_id': 139, 'insurance_id': '51LIDRHX98', 'discount_rate': 50.0}, {'customer_id': 127, 'insurance_id': 'GL7KF8XDMB', 'discount_rate': 50.0}, {'customer_id': 114, 'insurance_id': 'NQ13BPY8DX', 'discount_rate': 50.0}, {'customer_id': 157, 'insurance_id': '3Q5HCBE34T', 'discount_rate': 60.0}, {'customer_id': 143, 'insurance_id': 'A7AKRFJQMY', 'discount_rate': 60.0}, {'customer_id': 123, 'insurance_id': 'AYW3F3R4DM', 'discount_rate': 60.0}, {'customer_id': 130, 'insurance_id': 'BLZX6PCC3B', 'discount_rate': 60.0}, {'customer_id': 138, 'insurance_id': 'QAVU3VQSLF', 'discount_rate': 60.0}, {'customer_id': 142, 'insurance_id': 'XZRVEBOHF9', 'discount_rate': 60.0}, {'customer_id': 118, 'insurance_id': '6VXGNH64RL', 'discount_rate': 70.0}, {'customer_id': 159, 'insurance_id': '8FW4XR1GOV', 'discount_rate': 70.0}, {'customer_id': 124, 'insurance_id': 'A0N9K78TAP', 'discount_rate': 70.0}, {'customer_id': 144, 'insurance_id': 'AQ09UB3O10', 'discount_rate': 70.0}, {'customer_id': 141, 'insurance_id': 'C3W0GNK7Z2', 'discount_rate': 70.0}, {'customer_id': 133, 'insurance_id': 'N3P0BVHQLK', 'discount_rate': 70.0}, {'customer_id': 156, 'insurance_id': 'N6SAF4QYJ9', 'discount_rate': 70.0}, {'customer_id': 121, 'insurance_id': 'OZSPXRFVIZ', 'discount_rate': 70.0}, {'customer_id': 153, 'insurance_id': 'SJZN6NDASG', 'discount_rate': 70.0}, {'customer_id': 148, 'insurance_id': 'W3742UDVAX', 'discount_rate': 70.0}, {'customer_id': 115, 'insurance_id': 'YIBFQZYN3B', 'discount_rate': 70.0}, {'customer_id': 151, 'insurance_id': '33J50MXON9', 'discount_rate': 65.0}, {'customer_id': 116, 'insurance_id': '3O4AKR11VJ', 'discount_rate': 65.0}, {'customer_id': 137, 'insurance_id': 'NGKRZMPC2Q', 'discount_rate': 65.0}, {'customer_id': 125, 'insurance_id': 'P9M34W2E3R', 'discount_rate': 65.0}, {'customer_id': 136, 'insurance_id': 'PDHZLU617L', 'discount_rate': 65.0}, {'customer_id': 147, 'insurance_id': 'TFILUWTUBQ', 'discount_rate': 65.0}, {'customer_id': 128, 'insurance_id': 'AWG4WAW70K', 'discount_rate': 60.0}, {'customer_id': 140, 'insurance_id': 'CMY3YYL6T4', 'discount_rate': 60.0}, {'customer_id': 150, 'insurance_id': 'K6EXL6CLXH', 'discount_rate': 60.0}, {'customer_id': 160, 'insurance_id': 'RGPXTZHQHX', 'discount_rate': 60.0}, {'customer_id': 161, 'insurance_id': 'UFQS41EKI6', 'discount_rate': 60.0}, {'customer_id': 117, 'insurance_id': 'XH5GSRBON5', 'discount_rate': 60.0}, {'customer_id': 135, 'insurance_id': 'NBI8SJXXAH', 'discount_rate': 70.0}, {'customer_id': 134, 'insurance_id': 'P4WQWQYUTX', 'discount_rate': 70.0}, {'customer_id': 158, 'insurance_id': 'FJYYPWZUVQ', 'discount_rate': 55.0}, {'customer_id': 145, 'insurance_id': 'L0D8LD2OY9', 'discount_rate': 55.0}, {'customer_id': 149, 'insurance_id': 'MY9VT58OLJ', 'discount_rate': 55.0}, {'customer_id': 131, 'insurance_id': 'RNQTZHVGNS', 'discount_rate': 55.0}, {'customer_id': 122, 'insurance_id': 'Y53I2E4NN4', 'discount_rate': 55.0}, {'customer_id': 152, 'insurance_id': 'ZHF35Y08O5', 'discount_rate': 55.0}, {'customer_id': 120, 'insurance_id': '0LPO4UBN4X', 'discount_rate': 65.0}, {'customer_id': 162, 'insurance_id': 'BL90D5S128', 'discount_rate': 65.0}, {'customer_id': 132, 'insurance_id': 'CHYAV2H84R', 'discount_rate': 65.0}, {'customer_id': 119, 'insurance_id': 'GL284I2J2K', 'discount_rate': 65.0}, {'customer_id': 154, 'insurance_id': 'HZ8PK2Q8E0', 'discount_rate': 65.0}, {'customer_id': 146, 'insurance_id': 'KBVBJU9FJB', 'discount_rate': 65.0}, {'customer_id': 113, 'insurance_id': 'KIX4MFB13D', 'discount_rate': 65.0}, {'customer_id': 129, 'insurance_id': 'QWQE6MD7PC', 'discount_rate': 65.0}, {'customer_id': 155, 'insurance_id': 'RTB2A4SAEU', 'discount_rate': 65.0}, {'customer_id': 126, 'insurance_id': 'WWHGDSZ9PY', 'discount_rate': 65.0}]
+==============================
+Start of an order
+Order ID: 0628419016334543915870501
+Order store ID: 1
+139 Ordered 1 E59FCNY5ILRY at 1633454391
+This medicine price: 20.54
+139 Ordered 1 8ACIORIGSR0Y at 1633454391
+Another medicine price: 72.0
+Discount rate = :50.0
+Total price before discount:92.53999999999999
+Total price after discount:46.27
+==============================
+Start of an order
+Order ID: 9018620116333746936951344
+Order store ID: 4
+139 Ordered 3 8ACIORIGSR0Y at 1633374693
+This medicine price: 72.0
+Discount rate = :50.0
+Total price before discount:144.0
+Total price after discount:72.0
+==============================
+Start of an order
+Order ID: 5385892016335744921093594
+Order store ID: 5
+139 Ordered 3 45Z11J0BASMK at 1633574492
+This medicine price: 36.0
+139 Ordered 3 8ACIORIGSR0Y at 1633574492
+Another medicine price: 72.0
+Discount rate = :50.0
+Total price before discount:108.0
+Total price after discount:54.0
+==============================
+Start of an order
+Order ID: 9609902016334197262463660
+Order store ID: 2
+127 Ordered 3 7KINPC321XTR at 1633419726
+This medicine price: 873.9300000000001
+Discount rate = :50.0
+Total price before discount:945.9300000000001
+Total price after discount:472.97
+==============================
+Start of an order
+Order ID: 8439799616336074930755190
+Order store ID: 3
+127 Ordered 2 YXE4BA0B49OF at 1633607493
+This medicine price: 108.06
+Discount rate = :50.0
+Total price before discount:180.06
+Total price after discount:90.03
+==============================
+Start of an order
+Order ID: 6536593516338224802238839
+Order store ID: 4
+127 Ordered 1 FWR4F1VYAJTW at 1633822480
+This medicine price: 27.0
+Discount rate = :50.0
+Total price before discount:99.0
+Total price after discount:49.5
+==============================
+Start of an order
+Order ID: 1780990916336482694800276
+Order store ID: 1
+114 Ordered 1 YXE4BA0B49OF at 1633648269
+This medicine price: 54.03
+Discount rate = :50.0
+Total price before discount:126.03
+Total price after discount:63.02
+==============================
+Start of an order
+Order ID: 0421656516335735729513709
+Order store ID: 1
+157 Ordered 1 FWR4F1VYAJTW at 1633573572
+This medicine price: 27.0
+Discount rate = :60.0
+Total price before discount:99.0
+Total price after discount:59.4
+==============================
+Start of an order
+Order ID: 7881333916331892567324352
+Order store ID: 3
+157 Ordered 1 UQDE1NHIT0H3 at 1633189256
+This medicine price: 65.95
+157 Ordered 1 FWR4F1VYAJTW at 1633189256
+Another medicine price: 54.0
+Discount rate = :60.0
+Total price before discount:119.95
+Total price after discount:71.97
+==============================
+Start of an order
+Order ID: 6829154316330970452255960
+Order store ID: 3
+157 Ordered 1 3NP9UY9TSA8A at 1633097045
+This medicine price: 15.0
+157 Ordered 1 FWR4F1VYAJTW at 1633097045
+Another medicine price: 54.0
+Discount rate = :60.0
+Total price before discount:69.0
+Total price after discount:41.4
+==============================
+Start of an order
+Order ID: 9863416316333541458012622
+Order store ID: 3
+157 Ordered 2 37A8QSOPSPTV at 1633354145
+This medicine price: 137.9
+157 Ordered 2 FWR4F1VYAJTW at 1633354145
+Another medicine price: 54.0
+Discount rate = :60.0
+Total price before discount:191.9
+Total price after discount:115.14
+==============================
+Start of an order
+Order ID: 5445580716331694652578946
+Order store ID: 1
+143 Ordered 1 70FCNF9ZQC0C at 1633169465
+This medicine price: 113.62
+Discount rate = :60.0
+Total price before discount:167.62
+Total price after discount:100.57
+==============================
+Start of an order
+Order ID: 2508843716338397591239564
+Order store ID: 3
+143 Ordered 2 37A8QSOPSPTV at 1633839759
+This medicine price: 137.9
+143 Ordered 2 70FCNF9ZQC0C at 1633839759
+Another medicine price: 340.86
+Discount rate = :60.0
+Total price before discount:478.76
+Total price after discount:287.26
+==============================
+Start of an order
+Order ID: 9189805216333633425592771
+Order store ID: 1
+123 Ordered 3 HTQEBULS304F at 1633363342
+This medicine price: 564.48
+Discount rate = :60.0
+Total price before discount:905.34
+Total price after discount:543.2
+==============================
+Start of an order
+Order ID: 9832018216331212929530554
+Order store ID: 4
+123 Ordered 2 E59FCNY5ILRY at 1633121292
+This medicine price: 41.08
+123 Ordered 2 HTQEBULS304F at 1633121292
+Another medicine price: 564.48
+Discount rate = :60.0
+Total price before discount:605.5600000000001
+Total price after discount:363.34
+==============================
+Start of an order
+Order ID: 8110937616330823294905008
+Order store ID: 5
+123 Ordered 1 YXE4BA0B49OF at 1633082329
+This medicine price: 54.03
+Discount rate = :60.0
+Total price before discount:618.51
+Total price after discount:371.11
+==============================
+Start of an order
+Order ID: 9579093116337097220113012
+Order store ID: 3
+130 Ordered 2 UQDE1NHIT0H3 at 1633709722
+This medicine price: 131.9
+Discount rate = :60.0
+Total price before discount:696.38
+Total price after discount:417.83
+==============================
+Start of an order
+Order ID: 5060592016334866962225657
+Order store ID: 1
+130 Ordered 1 YXE4BA0B49OF at 1633486696
+This medicine price: 54.03
+Discount rate = :60.0
+Total price before discount:618.51
+Total price after discount:371.11
+==============================
+Start of an order
+Order ID: 9689316616332483826266588
+Order store ID: 1
+130 Ordered 3 FWR4F1VYAJTW at 1633248382
+This medicine price: 81.0
+Discount rate = :60.0
+Total price before discount:645.48
+Total price after discount:387.29
+==============================
+Start of an order
+Order ID: 7796117016331146203581124
+Order store ID: 2
+138 Ordered 3 7KINPC321XTR at 1633114620
+This medicine price: 873.9300000000001
+Discount rate = :60.0
+Total price before discount:1438.41
+Total price after discount:863.05
+==============================
+Start of an order
+Order ID: 2432974316333881377204174
+Order store ID: 5
+142 Ordered 3 FWR4F1VYAJTW at 1633388137
+This medicine price: 81.0
+Discount rate = :60.0
+Total price before discount:645.48
+Total price after discount:387.29
+==============================
+Start of an order
+Order ID: 0344343616332390457788643
+Order store ID: 5
+118 Ordered 3 FWR4F1VYAJTW at 1633239045
+This medicine price: 81.0
+118 Ordered 3 7SVF64IVF2ZY at 1633239045
+Another medicine price: 149.13
+Discount rate = :70.0
+Total price before discount:230.13
+Total price after discount:161.09
+==============================
+Start of an order
+Order ID: 6875480316336162831450314
+Order store ID: 5
+118 Ordered 3 UQDE1NHIT0H3 at 1633616283
+This medicine price: 197.85000000000002
+Discount rate = :70.0
+Total price before discount:346.98
+Total price after discount:242.89
+==============================
+Start of an order
+Order ID: 3026235216331766018719345
+Order store ID: 5
+118 Ordered 2 6HZFQ847PK0T at 1633176601
+This medicine price: 110.94
+Discount rate = :70.0
+Total price before discount:260.07
+Total price after discount:182.05
+==============================
+Start of an order
+Order ID: 3844618516333353556128310
+Order store ID: 5
+118 Ordered 1 7SVF64IVF2ZY at 1633335355
+This medicine price: 49.71
+Discount rate = :70.0
+Total price before discount:198.84
+Total price after discount:139.19
+==============================
+Start of an order
+Order ID: 8001459916338109271882457
+Order store ID: 3
+118 Ordered 1 3NP9UY9TSA8A at 1633810927
+This medicine price: 15.0
+118 Ordered 1 7SVF64IVF2ZY at 1633810927
+Another medicine price: 99.42
+Discount rate = :70.0
+Total price before discount:114.42
+Total price after discount:80.09
+==============================
+Start of an order
+Order ID: 2556450416331597253255084
+Order store ID: 4
+159 Ordered 3 HTQEBULS304F at 1633159725
+This medicine price: 564.48
+159 Ordered 3 70FCNF9ZQC0C at 1633159725
+Another medicine price: 113.62
+Discount rate = :70.0
+Total price before discount:678.1
+Total price after discount:474.67
+==============================
+Start of an order
+Order ID: 2988096916337462676264457
+Order store ID: 3
+159 Ordered 2 6HZFQ847PK0T at 1633746267
+This medicine price: 110.94
+159 Ordered 2 70FCNF9ZQC0C at 1633746267
+Another medicine price: 113.62
+Discount rate = :70.0
+Total price before discount:224.56
+Total price after discount:157.19
+==============================
+Start of an order
+Order ID: 9239303616332577206341770
+Order store ID: 2
+124 Ordered 1 3NP9UY9TSA8A at 1633257720
+This medicine price: 15.0
+124 Ordered 1 70FCNF9ZQC0C at 1633257720
+Another medicine price: 227.24
+Discount rate = :70.0
+Total price before discount:242.24
+Total price after discount:169.57
+==============================
+Start of an order
+Order ID: 5238409116333209052626661
+Order store ID: 2
+124 Ordered 3 70FCNF9ZQC0C at 1633320905
+This medicine price: 340.86
+Discount rate = :70.0
+Total price before discount:568.1
+Total price after discount:397.67
+==============================
+Start of an order
+Order ID: 4075871616335819030700036
+Order store ID: 2
+124 Ordered 3 7SVF64IVF2ZY at 1633581903
+This medicine price: 149.13
+124 Ordered 3 70FCNF9ZQC0C at 1633581903
+Another medicine price: 113.62
+Discount rate = :70.0
+Total price before discount:262.75
+Total price after discount:183.92
+==============================
+Start of an order
+Order ID: 4090055316335197230085690
+Order store ID: 4
+124 Ordered 1 UQDE1NHIT0H3 at 1633519723
+This medicine price: 65.95
+124 Ordered 1 70FCNF9ZQC0C at 1633519723
+Another medicine price: 113.62
+Discount rate = :70.0
+Total price before discount:179.57
+Total price after discount:125.7
+==============================
+Start of an order
+Order ID: 0754031016332942190047765
+Order store ID: 4
+124 Ordered 2 56XC3HZMA343 at 1633294219
+This medicine price: 133.06
+Discount rate = :70.0
+Total price before discount:246.68
+Total price after discount:172.68
+==============================
+Start of an order
+Order ID: 8233859916338308448841208
+Order store ID: 2
+144 Ordered 1 3NP9UY9TSA8A at 1633830844
+This medicine price: 15.0
+Discount rate = :70.0
+Total price before discount:128.62
+Total price after discount:90.03
+==============================
+Start of an order
+Order ID: 1634634416337066717301322
+Order store ID: 4
+144 Ordered 3 37A8QSOPSPTV at 1633706671
+This medicine price: 206.85000000000002
+144 Ordered 3 3NP9UY9TSA8A at 1633706671
+Another medicine price: 30.0
+Discount rate = :70.0
+Total price before discount:236.85000000000002
+Total price after discount:165.8
+==============================
+Start of an order
+Order ID: 2560186616336080195481138
+Order store ID: 3
+141 Ordered 2 7KINPC321XTR at 1633608019
+This medicine price: 582.62
+Discount rate = :70.0
+Total price before discount:612.62
+Total price after discount:428.83
+==============================
+Start of an order
+Order ID: 5625625716335049173463886
+Order store ID: 5
+141 Ordered 2 56XC3HZMA343 at 1633504917
+This medicine price: 133.06
+Discount rate = :70.0
+Total price before discount:163.06
+Total price after discount:114.14
+==============================
+Start of an order
+Order ID: 1184600516336131973257347
+Order store ID: 3
+133 Ordered 1 45Z11J0BASMK at 1633613197
+This medicine price: 12.0
+133 Ordered 1 7SVF64IVF2ZY at 1633613197
+Another medicine price: 99.42
+Discount rate = :70.0
+Total price before discount:111.42
+Total price after discount:77.99
+==============================
+Start of an order
+Order ID: 4869362916338665748705215
+Order store ID: 2
+156 Ordered 3 70FCNF9ZQC0C at 1633866574
+This medicine price: 340.86
+Discount rate = :70.0
+Total price before discount:440.28000000000003
+Total price after discount:308.2
+==============================
+Start of an order
+Order ID: 9980301116331705062780322
+Order store ID: 3
+156 Ordered 1 6HZFQ847PK0T at 1633170506
+This medicine price: 55.47
+156 Ordered 1 70FCNF9ZQC0C at 1633170506
+Another medicine price: 113.62
+Discount rate = :70.0
+Total price before discount:169.09
+Total price after discount:118.36
+==============================
+Start of an order
+Order ID: 9971634316336585787424754
+Order store ID: 4
+121 Ordered 3 7KINPC321XTR at 1633658578
+This medicine price: 873.9300000000001
+121 Ordered 3 70FCNF9ZQC0C at 1633658578
+Another medicine price: 113.62
+Discount rate = :70.0
+Total price before discount:987.5500000000001
+Total price after discount:691.28
+==============================
+Start of an order
+Order ID: 8278662416336894128625652
+Order store ID: 3
+121 Ordered 2 FWR4F1VYAJTW at 1633689412
+This medicine price: 54.0
+121 Ordered 2 70FCNF9ZQC0C at 1633689412
+Another medicine price: 113.62
+Discount rate = :70.0
+Total price before discount:167.62
+Total price after discount:117.33
+==============================
+Start of an order
+Order ID: 8531113416333565138050937
+Order store ID: 2
+121 Ordered 1 70FCNF9ZQC0C at 1633356513
+This medicine price: 113.62
+Discount rate = :70.0
+Total price before discount:227.24
+Total price after discount:159.07
+==============================
+Start of an order
+Order ID: 3097980116332604395934491
+Order store ID: 2
+121 Ordered 2 45Z11J0BASMK at 1633260439
+This medicine price: 24.0
+Discount rate = :70.0
+Total price before discount:137.62
+Total price after discount:96.33
+==============================
+Start of an order
+Order ID: 7675969116333468892276727
+Order store ID: 2
+153 Ordered 2 6HZFQ847PK0T at 1633346889
+This medicine price: 110.94
+153 Ordered 2 56XC3HZMA343 at 1633346889
+Another medicine price: 66.53
+Discount rate = :70.0
+Total price before discount:177.47
+Total price after discount:124.23
+==============================
+Start of an order
+Order ID: 4569605116338569379921217
+Order store ID: 3
+153 Ordered 2 56XC3HZMA343 at 1633856937
+This medicine price: 133.06
+Discount rate = :70.0
+Total price before discount:199.59
+Total price after discount:139.71
+==============================
+Start of an order
+Order ID: 0319181516331493867101823
+Order store ID: 2
+153 Ordered 2 37A8QSOPSPTV at 1633149386
+This medicine price: 137.9
+153 Ordered 2 56XC3HZMA343 at 1633149386
+Another medicine price: 133.06
+Discount rate = :70.0
+Total price before discount:270.96000000000004
+Total price after discount:189.67
+==============================
+Start of an order
+Order ID: 4727558216337502410075496
+Order store ID: 3
+148 Ordered 3 FWR4F1VYAJTW at 1633750241
+This medicine price: 81.0
+Discount rate = :70.0
+Total price before discount:214.06
+Total price after discount:149.84
+==============================
+Start of an order
+Order ID: 2855017016336066319027043
+Order store ID: 5
+148 Ordered 1 70FCNF9ZQC0C at 1633606631
+This medicine price: 113.62
+148 Ordered 1 8ACIORIGSR0Y at 1633606631
+Another medicine price: 72.0
+Discount rate = :70.0
+Total price before discount:185.62
+Total price after discount:129.93
+==============================
+Start of an order
+Order ID: 7924301416331446071112173
+Order store ID: 3
+115 Ordered 1 UQDE1NHIT0H3 at 1633144607
+This medicine price: 65.95
+Discount rate = :70.0
+Total price before discount:137.95
+Total price after discount:96.56
+==============================
+Start of an order
+Order ID: 8583741516334252726872369
+Order store ID: 3
+115 Ordered 3 E59FCNY5ILRY at 1633425272
+This medicine price: 61.62
+Discount rate = :70.0
+Total price before discount:133.62
+Total price after discount:93.53
+==============================
+Start of an order
+Order ID: 7198933416332269611525204
+Order store ID: 1
+151 Ordered 2 7SVF64IVF2ZY at 1633226961
+This medicine price: 99.42
+Discount rate = :65.0
+Total price before discount:171.42000000000002
+Total price after discount:111.42
+==============================
+Start of an order
+Order ID: 5624076416335409780645592
+Order store ID: 1
+116 Ordered 3 HTQEBULS304F at 1633540978
+This medicine price: 564.48
+Discount rate = :65.0
+Total price before discount:636.48
+Total price after discount:413.71
+==============================
+Start of an order
+Order ID: 5385841016332313382472769
+Order store ID: 5
+116 Ordered 3 YXE4BA0B49OF at 1633231338
+This medicine price: 162.09
+116 Ordered 3 HTQEBULS304F at 1633231338
+Another medicine price: 564.48
+Discount rate = :65.0
+Total price before discount:726.57
+Total price after discount:472.27
+==============================
+Start of an order
+Order ID: 0157795216338362057722206
+Order store ID: 4
+137 Ordered 3 FWR4F1VYAJTW at 1633836205
+This medicine price: 81.0
+Discount rate = :65.0
+Total price before discount:645.48
+Total price after discount:419.56
+==============================
+Start of an order
+Order ID: 7503595416338028300892795
+Order store ID: 4
+125 Ordered 1 E59FCNY5ILRY at 1633802830
+This medicine price: 20.54
+125 Ordered 1 HTQEBULS304F at 1633802830
+Another medicine price: 376.32
+Discount rate = :65.0
+Total price before discount:396.86
+Total price after discount:257.96
+==============================
+Start of an order
+Order ID: 4022158616332012138736614
+Order store ID: 2
+125 Ordered 1 HTQEBULS304F at 1633201213
+This medicine price: 188.16
+Discount rate = :65.0
+Total price before discount:564.48
+Total price after discount:366.91
+==============================
+Start of an order
+Order ID: 3191266516337870507499739
+Order store ID: 4
+136 Ordered 1 70FCNF9ZQC0C at 1633787050
+This medicine price: 113.62
+Discount rate = :65.0
+Total price before discount:489.94
+Total price after discount:318.46
+==============================
+Start of an order
+Order ID: 4179072616334839785500617
+Order store ID: 4
+147 Ordered 1 UQDE1NHIT0H3 at 1633483978
+This medicine price: 65.95
+Discount rate = :65.0
+Total price before discount:442.27
+Total price after discount:287.48
+==============================
+Start of an order
+Order ID: 1766109316337122194758010
+Order store ID: 5
+147 Ordered 3 70FCNF9ZQC0C at 1633712219
+This medicine price: 340.86
+Discount rate = :65.0
+Total price before discount:717.1800000000001
+Total price after discount:466.17
+==============================
+Start of an order
+Order ID: 5832942416338400096256055
+Order store ID: 4
+128 Ordered 3 8ACIORIGSR0Y at 1633840009
+This medicine price: 72.0
+Discount rate = :60.0
+Total price before discount:448.32
+Total price after discount:268.99
+==============================
+Start of an order
+Order ID: 7525618216331148199381874
+Order store ID: 4
+128 Ordered 2 LZAQFRFRL38K at 1633114819
+This medicine price: 245.14
+Discount rate = :60.0
+Total price before discount:621.46
+Total price after discount:372.88
+==============================
+Start of an order
+Order ID: 4507501016335457200860127
+Order store ID: 2
+140 Ordered 1 UQDE1NHIT0H3 at 1633545720
+This medicine price: 65.95
+Discount rate = :60.0
+Total price before discount:442.27
+Total price after discount:265.36
+==============================
+Start of an order
+Order ID: 3346744916332346420074001
+Order store ID: 4
+150 Ordered 2 37A8QSOPSPTV at 1633234642
+This medicine price: 137.9
+150 Ordered 2 70FCNF9ZQC0C at 1633234642
+Another medicine price: 113.62
+Discount rate = :60.0
+Total price before discount:251.52
+Total price after discount:150.91
+==============================
+Start of an order
+Order ID: 6972174616338719045665730
+Order store ID: 5
+150 Ordered 1 70FCNF9ZQC0C at 1633871904
+This medicine price: 113.62
+Discount rate = :60.0
+Total price before discount:227.24
+Total price after discount:136.34
+==============================
+Start of an order
+Order ID: 2106034916336386542982726
+Order store ID: 5
+150 Ordered 1 45Z11J0BASMK at 1633638654
+This medicine price: 12.0
+Discount rate = :60.0
+Total price before discount:125.62
+Total price after discount:75.37
+==============================
+Start of an order
+Order ID: 2318068216338663645800232
+Order store ID: 3
+160 Ordered 1 56XC3HZMA343 at 1633866364
+This medicine price: 66.53
+160 Ordered 1 HTQEBULS304F at 1633866364
+Another medicine price: 564.48
+Discount rate = :60.0
+Total price before discount:631.01
+Total price after discount:378.61
+==============================
+Start of an order
+Order ID: 2728072016331065211439049
+Order store ID: 2
+161 Ordered 3 HTQEBULS304F at 1633106521
+This medicine price: 564.48
+Discount rate = :60.0
+Total price before discount:1128.96
+Total price after discount:677.38
+==============================
+Start of an order
+Order ID: 1023803216333723909183358
+Order store ID: 1
+161 Ordered 1 UQDE1NHIT0H3 at 1633372390
+This medicine price: 65.95
+Discount rate = :60.0
+Total price before discount:630.4300000000001
+Total price after discount:378.26
+==============================
+Start of an order
+Order ID: 6519948616334139732986219
+Order store ID: 2
+117 Ordered 2 37A8QSOPSPTV at 1633413973
+This medicine price: 137.9
+Discount rate = :60.0
+Total price before discount:702.38
+Total price after discount:421.43
+==============================
+Start of an order
+Order ID: 0214005216333385386210325
+Order store ID: 5
+117 Ordered 3 FWR4F1VYAJTW at 1633338538
+This medicine price: 81.0
+Discount rate = :60.0
+Total price before discount:645.48
+Total price after discount:387.29
+==============================
+Start of an order
+Order ID: 8070327916332083936082222
+Order store ID: 5
+117 Ordered 1 8ACIORIGSR0Y at 1633208393
+This medicine price: 24.0
+Discount rate = :60.0
+Total price before discount:588.48
+Total price after discount:353.09
+==============================
+Start of an order
+Order ID: 6116722416335160360268520
+Order store ID: 3
+135 Ordered 2 YXE4BA0B49OF at 1633516036
+This medicine price: 108.06
+Discount rate = :70.0
+Total price before discount:672.54
+Total price after discount:470.78
+==============================
+Start of an order
+Order ID: 2080283616335974226705321
+Order store ID: 1
+135 Ordered 1 70FCNF9ZQC0C at 1633597422
+This medicine price: 113.62
+135 Ordered 1 E59FCNY5ILRY at 1633597422
+Another medicine price: 20.54
+Discount rate = :70.0
+Total price before discount:134.16
+Total price after discount:93.91
+==============================
+Start of an order
+Order ID: 5402790816333903266205975
+Order store ID: 3
+135 Ordered 3 37A8QSOPSPTV at 1633390326
+This medicine price: 206.85000000000002
+135 Ordered 3 E59FCNY5ILRY at 1633390326
+Another medicine price: 61.62
+Discount rate = :70.0
+Total price before discount:268.47
+Total price after discount:187.93
+==============================
+Start of an order
+Order ID: 2054170216331280561908518
+Order store ID: 4
+135 Ordered 3 E59FCNY5ILRY at 1633128056
+This medicine price: 61.62
+Discount rate = :70.0
+Total price before discount:123.24
+Total price after discount:86.27
+==============================
+Start of an order
+Order ID: 9367795416333186587147688
+Order store ID: 3
+135 Ordered 1 HTQEBULS304F at 1633318658
+This medicine price: 188.16
+Discount rate = :70.0
+Total price before discount:249.78
+Total price after discount:174.85
+==============================
+Start of an order
+Order ID: 5588097916335968000105646
+Order store ID: 3
+134 Ordered 2 56XC3HZMA343 at 1633596800
+This medicine price: 133.06
+Discount rate = :70.0
+Total price before discount:194.68
+Total price after discount:136.28
+==============================
+Start of an order
+Order ID: 1576496316335320877525664
+Order store ID: 4
+134 Ordered 3 6HZFQ847PK0T at 1633532087
+This medicine price: 166.41
+134 Ordered 3 56XC3HZMA343 at 1633532087
+Another medicine price: 133.06
+Discount rate = :70.0
+Total price before discount:299.47
+Total price after discount:209.63
+==============================
+Start of an order
+Order ID: 0862082616333925994861908
+Order store ID: 5
+134 Ordered 1 37A8QSOPSPTV at 1633392599
+This medicine price: 68.95
+Discount rate = :70.0
+Total price before discount:202.01
+Total price after discount:141.41
+==============================
+Start of an order
+Order ID: 1443451016334777356719196
+Order store ID: 2
+158 Ordered 2 FWR4F1VYAJTW at 1633477735
+This medicine price: 54.0
+Discount rate = :55.0
+Total price before discount:187.06
+Total price after discount:102.88
+==============================
+Start of an order
+Order ID: 6217436616334131516286213
+Order store ID: 1
+158 Ordered 1 70FCNF9ZQC0C at 1633413151
+This medicine price: 113.62
+Discount rate = :55.0
+Total price before discount:246.68
+Total price after discount:135.67
+==============================
+Start of an order
+Order ID: 7424017416337811210316393
+Order store ID: 5
+145 Ordered 3 37A8QSOPSPTV at 1633781121
+This medicine price: 206.85000000000002
+Discount rate = :55.0
+Total price before discount:339.91
+Total price after discount:186.95
+==============================
+Start of an order
+Order ID: 8563950116336825141938473
+Order store ID: 1
+145 Ordered 1 7KINPC321XTR at 1633682514
+This medicine price: 291.31
+145 Ordered 1 45Z11J0BASMK at 1633682514
+Another medicine price: 24.0
+Discount rate = :55.0
+Total price before discount:315.31
+Total price after discount:173.42
+==============================
+Start of an order
+Order ID: 8245118916335934904076485
+Order store ID: 5
+145 Ordered 2 45Z11J0BASMK at 1633593490
+This medicine price: 24.0
+Discount rate = :55.0
+Total price before discount:48.0
+Total price after discount:26.4
+==============================
+Start of an order
+Order ID: 7759618416337433315931967
+Order store ID: 4
+145 Ordered 3 3NP9UY9TSA8A at 1633743331
+This medicine price: 45.0
+Discount rate = :55.0
+Total price before discount:69.0
+Total price after discount:37.95
+==============================
+Start of an order
+Order ID: 1070614716334316500209196
+Order store ID: 5
+149 Ordered 1 56XC3HZMA343 at 1633431650
+This medicine price: 66.53
+Discount rate = :55.0
+Total price before discount:90.53
+Total price after discount:49.79
+==============================
+Start of an order
+Order ID: 9658984016331025882699416
+Order store ID: 4
+149 Ordered 1 45Z11J0BASMK at 1633102588
+This medicine price: 12.0
+149 Ordered 1 56XC3HZMA343 at 1633102588
+Another medicine price: 199.59
+Discount rate = :55.0
+Total price before discount:211.59
+Total price after discount:116.37
+==============================
+Start of an order
+Order ID: 2579597516334340819213356
+Order store ID: 4
+131 Ordered 2 6HZFQ847PK0T at 1633434081
+This medicine price: 110.94
+131 Ordered 2 E59FCNY5ILRY at 1633434081
+Another medicine price: 20.54
+Discount rate = :55.0
+Total price before discount:131.48
+Total price after discount:72.31
+==============================
+Start of an order
+Order ID: 4374757016333291682130389
+Order store ID: 1
+131 Ordered 3 E59FCNY5ILRY at 1633329168
+This medicine price: 61.62
+Discount rate = :55.0
+Total price before discount:82.16
+Total price after discount:45.19
+==============================
+Start of an order
+Order ID: 7905329416337204142805330
+Order store ID: 1
+122 Ordered 2 56XC3HZMA343 at 1633720414
+This medicine price: 133.06
+122 Ordered 2 HTQEBULS304F at 1633720414
+Another medicine price: 564.48
+Discount rate = :55.0
+Total price before discount:697.54
+Total price after discount:383.65
+==============================
+Start of an order
+Order ID: 2416211216338326850603522
+Order store ID: 4
+122 Ordered 1 70FCNF9ZQC0C at 1633832685
+This medicine price: 113.62
+Discount rate = :55.0
+Total price before discount:678.1
+Total price after discount:372.96
+==============================
+Start of an order
+Order ID: 7980973616337238103591059
+Order store ID: 3
+152 Ordered 3 FWR4F1VYAJTW at 1633723810
+This medicine price: 81.0
+Discount rate = :55.0
+Total price before discount:645.48
+Total price after discount:355.01
+==============================
+Start of an order
+Order ID: 6599912716332197636545535
+Order store ID: 4
+152 Ordered 2 37A8QSOPSPTV at 1633219763
+This medicine price: 137.9
+152 Ordered 2 8ACIORIGSR0Y at 1633219763
+Another medicine price: 24.0
+Discount rate = :55.0
+Total price before discount:161.9
+Total price after discount:89.05
+==============================
+Start of an order
+Order ID: 2739026116332667241374858
+Order store ID: 1
+152 Ordered 2 7KINPC321XTR at 1633266724
+This medicine price: 582.62
+Discount rate = :55.0
+Total price before discount:606.62
+Total price after discount:333.64
+==============================
+Start of an order
+Order ID: 9020742516336010089367240
+Order store ID: 1
+152 Ordered 3 8ACIORIGSR0Y at 1633601008
+This medicine price: 72.0
+Discount rate = :55.0
+Total price before discount:96.0
+Total price after discount:52.8
+==============================
+Start of an order
+Order ID: 2604670616332738181041732
+Order store ID: 3
+120 Ordered 1 6HZFQ847PK0T at 1633273818
+This medicine price: 55.47
+Discount rate = :65.0
+Total price before discount:79.47
+Total price after discount:51.66
+==============================
+Start of an order
+Order ID: 2338053616335166315041030
+Order store ID: 3
+120 Ordered 3 7KINPC321XTR at 1633516631
+This medicine price: 873.9300000000001
+Discount rate = :65.0
+Total price before discount:897.9300000000001
+Total price after discount:583.65
+==============================
+Start of an order
+Order ID: 7572766216331486372469474
+Order store ID: 2
+162 Ordered 3 70FCNF9ZQC0C at 1633148637
+This medicine price: 340.86
+162 Ordered 3 7KINPC321XTR at 1633148637
+Another medicine price: 873.9300000000001
+Discount rate = :65.0
+Total price before discount:1214.79
+Total price after discount:789.61
+==============================
+Start of an order
+Order ID: 6540743116338720481652903
+Order store ID: 4
+132 Ordered 2 FWR4F1VYAJTW at 1633872048
+This medicine price: 54.0
+132 Ordered 2 E59FCNY5ILRY at 1633872048
+Another medicine price: 20.54
+Discount rate = :65.0
+Total price before discount:74.53999999999999
+Total price after discount:48.45
+==============================
+Start of an order
+Order ID: 2451342016336297242137056
+Order store ID: 4
+132 Ordered 2 8ACIORIGSR0Y at 1633629724
+This medicine price: 48.0
+Discount rate = :65.0
+Total price before discount:68.53999999999999
+Total price after discount:44.55
+==============================
+Start of an order
+Order ID: 9429433516337904390784298
+Order store ID: 2
+119 Ordered 2 7SVF64IVF2ZY at 1633790439
+This medicine price: 99.42
+Discount rate = :65.0
+Total price before discount:119.96000000000001
+Total price after discount:77.97
+==============================
+Start of an order
+Order ID: 9477745116337735827707790
+Order store ID: 5
+154 Ordered 1 45Z11J0BASMK at 1633773582
+This medicine price: 12.0
+Discount rate = :65.0
+Total price before discount:32.54
+Total price after discount:21.15
+==============================
+Start of an order
+Order ID: 3914775916337827061417025
+Order store ID: 3
+146 Ordered 2 3NP9UY9TSA8A at 1633782706
+This medicine price: 30.0
+Discount rate = :65.0
+Total price before discount:50.54
+Total price after discount:32.85
+==============================
+Start of an order
+Order ID: 7760442616331063994247523
+Order store ID: 5
+146 Ordered 2 56XC3HZMA343 at 1633106399
+This medicine price: 133.06
+Discount rate = :65.0
+Total price before discount:153.6
+Total price after discount:99.84
+==============================
+Start of an order
+Order ID: 8059523316338243794602570
+Order store ID: 2
+113 Ordered 2 FWR4F1VYAJTW at 1633824379
+This medicine price: 54.0
+Discount rate = :65.0
+Total price before discount:74.53999999999999
+Total price after discount:48.45
+==============================
+Start of an order
+Order ID: 0527591916335110604172909
+Order store ID: 1
+129 Ordered 2 70FCNF9ZQC0C at 1633511060
+This medicine price: 227.24
+129 Ordered 2 LZAQFRFRL38K at 1633511060
+Another medicine price: 245.14
+Discount rate = :65.0
+Total price before discount:472.38
+Total price after discount:307.05
+==============================
+Start of an order
+Order ID: 1260640416335606275159910
+Order store ID: 2
+129 Ordered 1 LZAQFRFRL38K at 1633560627
+This medicine price: 122.57
+Discount rate = :65.0
+Total price before discount:367.71
+Total price after discount:239.01
+==============================
+Start of an order
+Order ID: 2239839116335726338639893
+Order store ID: 4
+155 Ordered 3 7KINPC321XTR at 1633572633
+This medicine price: 873.9300000000001
+Discount rate = :65.0
+Total price before discount:1119.0700000000002
+Total price after discount:727.4
+==============================
+Start of an order
+Order ID: 4785338416334707864184155
+Order store ID: 5
+155 Ordered 3 56XC3HZMA343 at 1633470786
+This medicine price: 199.59
+Discount rate = :65.0
+Total price before discount:444.73
+Total price after discount:289.07
+==============================
+Start of an order
+Order ID: 8288175216334509871110823
+Order store ID: 5
+155 Ordered 3 37A8QSOPSPTV at 1633450987
+This medicine price: 206.85000000000002
+Discount rate = :65.0
+Total price before discount:451.99
+Total price after discount:293.79
+==============================
+Start of an order
+Order ID: 0766951016333796182092382
+Order store ID: 1
+155 Ordered 1 FWR4F1VYAJTW at 1633379618
+This medicine price: 27.0
+155 Ordered 1 7KINPC321XTR at 1633379618
+Another medicine price: 873.9300000000001
+Discount rate = :65.0
+Total price before discount:900.9300000000001
+Total price after discount:585.6
+==============================
+Start of an order
+Order ID: 4146965616333889308638020
+Order store ID: 5
+155 Ordered 3 YXE4BA0B49OF at 1633388930
+This medicine price: 162.09
+155 Ordered 3 7KINPC321XTR at 1633388930
+Another medicine price: 582.62
+Discount rate = :65.0
+Total price before discount:744.71
+Total price after discount:484.06
+==============================
+Start of an order
+Order ID: 8763300416336993460889825
+Order store ID: 2
+126 Ordered 1 6HZFQ847PK0T at 1633699346
+This medicine price: 55.47
+Discount rate = :65.0
+Total price before discount:638.09
+Total price after discount:414.76
+==================================================
+customer_order SQL:
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('139', '0628419016334543915870501');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('139', '9018620116333746936951344');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('139', '5385892016335744921093594');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('127', '9609902016334197262463660');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('127', '8439799616336074930755190');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('127', '6536593516338224802238839');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('114', '1780990916336482694800276');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('157', '0421656516335735729513709');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('157', '7881333916331892567324352');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('157', '6829154316330970452255960');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('157', '9863416316333541458012622');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('143', '5445580716331694652578946');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('143', '2508843716338397591239564');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('123', '9189805216333633425592771');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('123', '9832018216331212929530554');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('123', '8110937616330823294905008');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('130', '9579093116337097220113012');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('130', '5060592016334866962225657');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('130', '9689316616332483826266588');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('138', '7796117016331146203581124');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('142', '2432974316333881377204174');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('118', '0344343616332390457788643');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('118', '6875480316336162831450314');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('118', '3026235216331766018719345');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('118', '3844618516333353556128310');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('118', '8001459916338109271882457');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('159', '2556450416331597253255084');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('159', '2988096916337462676264457');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('124', '9239303616332577206341770');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('124', '5238409116333209052626661');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('124', '4075871616335819030700036');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('124', '4090055316335197230085690');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('124', '0754031016332942190047765');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('144', '8233859916338308448841208');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('144', '1634634416337066717301322');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('141', '2560186616336080195481138');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('141', '5625625716335049173463886');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('133', '1184600516336131973257347');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('156', '4869362916338665748705215');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('156', '9980301116331705062780322');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('121', '9971634316336585787424754');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('121', '8278662416336894128625652');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('121', '8531113416333565138050937');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('121', '3097980116332604395934491');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('153', '7675969116333468892276727');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('153', '4569605116338569379921217');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('153', '0319181516331493867101823');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('148', '4727558216337502410075496');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('148', '2855017016336066319027043');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('115', '7924301416331446071112173');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('115', '8583741516334252726872369');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('151', '7198933416332269611525204');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('116', '5624076416335409780645592');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('116', '5385841016332313382472769');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('137', '0157795216338362057722206');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('125', '7503595416338028300892795');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('125', '4022158616332012138736614');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('136', '3191266516337870507499739');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('147', '4179072616334839785500617');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('147', '1766109316337122194758010');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('128', '5832942416338400096256055');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('128', '7525618216331148199381874');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('140', '4507501016335457200860127');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('150', '3346744916332346420074001');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('150', '6972174616338719045665730');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('150', '2106034916336386542982726');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('160', '2318068216338663645800232');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('161', '2728072016331065211439049');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('161', '1023803216333723909183358');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('117', '6519948616334139732986219');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('117', '0214005216333385386210325');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('117', '8070327916332083936082222');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('135', '6116722416335160360268520');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('135', '2080283616335974226705321');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('135', '5402790816333903266205975');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('135', '2054170216331280561908518');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('135', '9367795416333186587147688');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('134', '5588097916335968000105646');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('134', '1576496316335320877525664');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('134', '0862082616333925994861908');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('158', '1443451016334777356719196');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('158', '6217436616334131516286213');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('145', '7424017416337811210316393');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('145', '8563950116336825141938473');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('145', '8245118916335934904076485');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('145', '7759618416337433315931967');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('149', '1070614716334316500209196');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('149', '9658984016331025882699416');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('131', '2579597516334340819213356');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('131', '4374757016333291682130389');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('122', '7905329416337204142805330');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('122', '2416211216338326850603522');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('152', '7980973616337238103591059');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('152', '6599912716332197636545535');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('152', '2739026116332667241374858');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('152', '9020742516336010089367240');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('120', '2604670616332738181041732');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('120', '2338053616335166315041030');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('162', '7572766216331486372469474');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('132', '6540743116338720481652903');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('132', '2451342016336297242137056');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('119', '9429433516337904390784298');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('154', '9477745116337735827707790');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('146', '3914775916337827061417025');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('146', '7760442616331063994247523');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('113', '8059523316338243794602570');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('129', '0527591916335110604172909');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('129', '1260640416335606275159910');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('155', '2239839116335726338639893');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('155', '4785338416334707864184155');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('155', '8288175216334509871110823');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('155', '0766951016333796182092382');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('155', '4146965616333889308638020');
+INSERT INTO `customer_order` (`customer_id`, `order_id`) VALUES ('126', '8763300416336993460889825');
+==================================================
+orderdetail SQL:
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('0628419016334543915870501', FROM_UNIXTIME('1633454391'), '46.27', '0', '46.27', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9018620116333746936951344', FROM_UNIXTIME('1633374693'), '72.0', '0', '72.0', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('5385892016335744921093594', FROM_UNIXTIME('1633574492'), '54.0', '0', '54.0', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9609902016334197262463660', FROM_UNIXTIME('1633419726'), '472.97', '0', '472.97', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8439799616336074930755190', FROM_UNIXTIME('1633607493'), '90.03', '0', '90.03', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('6536593516338224802238839', FROM_UNIXTIME('1633822480'), '49.5', '0', '49.5', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('1780990916336482694800276', FROM_UNIXTIME('1633648269'), '63.02', '0', '63.02', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('0421656516335735729513709', FROM_UNIXTIME('1633573572'), '59.4', '0', '59.4', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7881333916331892567324352', FROM_UNIXTIME('1633189256'), '71.97', '0', '71.97', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('6829154316330970452255960', FROM_UNIXTIME('1633097045'), '41.4', '0', '41.4', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9863416316333541458012622', FROM_UNIXTIME('1633354145'), '115.14', '0', '115.14', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('5445580716331694652578946', FROM_UNIXTIME('1633169465'), '100.57', '0', '100.57', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2508843716338397591239564', FROM_UNIXTIME('1633839759'), '287.26', '0', '287.26', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9189805216333633425592771', FROM_UNIXTIME('1633363342'), '543.2', '0', '543.2', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9832018216331212929530554', FROM_UNIXTIME('1633121292'), '363.34', '0', '363.34', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8110937616330823294905008', FROM_UNIXTIME('1633082329'), '371.11', '0', '371.11', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9579093116337097220113012', FROM_UNIXTIME('1633709722'), '417.83', '0', '417.83', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('5060592016334866962225657', FROM_UNIXTIME('1633486696'), '371.11', '0', '371.11', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9689316616332483826266588', FROM_UNIXTIME('1633248382'), '387.29', '0', '387.29', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7796117016331146203581124', FROM_UNIXTIME('1633114620'), '863.05', '0', '863.05', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2432974316333881377204174', FROM_UNIXTIME('1633388137'), '387.29', '0', '387.29', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('0344343616332390457788643', FROM_UNIXTIME('1633239045'), '161.09', '0', '161.09', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('6875480316336162831450314', FROM_UNIXTIME('1633616283'), '242.89', '0', '242.89', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('3026235216331766018719345', FROM_UNIXTIME('1633176601'), '182.05', '0', '182.05', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('3844618516333353556128310', FROM_UNIXTIME('1633335355'), '139.19', '0', '139.19', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8001459916338109271882457', FROM_UNIXTIME('1633810927'), '80.09', '0', '80.09', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2556450416331597253255084', FROM_UNIXTIME('1633159725'), '474.67', '0', '474.67', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2988096916337462676264457', FROM_UNIXTIME('1633746267'), '157.19', '0', '157.19', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9239303616332577206341770', FROM_UNIXTIME('1633257720'), '169.57', '0', '169.57', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('5238409116333209052626661', FROM_UNIXTIME('1633320905'), '397.67', '0', '397.67', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('4075871616335819030700036', FROM_UNIXTIME('1633581903'), '183.92', '0', '183.92', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('4090055316335197230085690', FROM_UNIXTIME('1633519723'), '125.7', '0', '125.7', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('0754031016332942190047765', FROM_UNIXTIME('1633294219'), '172.68', '0', '172.68', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8233859916338308448841208', FROM_UNIXTIME('1633830844'), '90.03', '0', '90.03', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('1634634416337066717301322', FROM_UNIXTIME('1633706671'), '165.8', '0', '165.8', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2560186616336080195481138', FROM_UNIXTIME('1633608019'), '428.83', '0', '428.83', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('5625625716335049173463886', FROM_UNIXTIME('1633504917'), '114.14', '0', '114.14', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('1184600516336131973257347', FROM_UNIXTIME('1633613197'), '77.99', '0', '77.99', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('4869362916338665748705215', FROM_UNIXTIME('1633866574'), '308.2', '0', '308.2', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9980301116331705062780322', FROM_UNIXTIME('1633170506'), '118.36', '0', '118.36', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9971634316336585787424754', FROM_UNIXTIME('1633658578'), '691.28', '0', '691.28', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8278662416336894128625652', FROM_UNIXTIME('1633689412'), '117.33', '0', '117.33', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8531113416333565138050937', FROM_UNIXTIME('1633356513'), '159.07', '0', '159.07', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('3097980116332604395934491', FROM_UNIXTIME('1633260439'), '96.33', '0', '96.33', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7675969116333468892276727', FROM_UNIXTIME('1633346889'), '124.23', '0', '124.23', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('4569605116338569379921217', FROM_UNIXTIME('1633856937'), '139.71', '0', '139.71', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('0319181516331493867101823', FROM_UNIXTIME('1633149386'), '189.67', '0', '189.67', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('4727558216337502410075496', FROM_UNIXTIME('1633750241'), '149.84', '0', '149.84', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2855017016336066319027043', FROM_UNIXTIME('1633606631'), '129.93', '0', '129.93', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7924301416331446071112173', FROM_UNIXTIME('1633144607'), '96.56', '0', '96.56', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8583741516334252726872369', FROM_UNIXTIME('1633425272'), '93.53', '0', '93.53', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7198933416332269611525204', FROM_UNIXTIME('1633226961'), '111.42', '0', '111.42', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('5624076416335409780645592', FROM_UNIXTIME('1633540978'), '413.71', '0', '413.71', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('5385841016332313382472769', FROM_UNIXTIME('1633231338'), '472.27', '0', '472.27', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('0157795216338362057722206', FROM_UNIXTIME('1633836205'), '419.56', '0', '419.56', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7503595416338028300892795', FROM_UNIXTIME('1633802830'), '257.96', '0', '257.96', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('4022158616332012138736614', FROM_UNIXTIME('1633201213'), '366.91', '0', '366.91', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('3191266516337870507499739', FROM_UNIXTIME('1633787050'), '318.46', '0', '318.46', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('4179072616334839785500617', FROM_UNIXTIME('1633483978'), '287.48', '0', '287.48', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('1766109316337122194758010', FROM_UNIXTIME('1633712219'), '466.17', '0', '466.17', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('5832942416338400096256055', FROM_UNIXTIME('1633840009'), '268.99', '0', '268.99', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7525618216331148199381874', FROM_UNIXTIME('1633114819'), '372.88', '0', '372.88', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('4507501016335457200860127', FROM_UNIXTIME('1633545720'), '265.36', '0', '265.36', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('3346744916332346420074001', FROM_UNIXTIME('1633234642'), '150.91', '0', '150.91', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('6972174616338719045665730', FROM_UNIXTIME('1633871904'), '136.34', '0', '136.34', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2106034916336386542982726', FROM_UNIXTIME('1633638654'), '75.37', '0', '75.37', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2318068216338663645800232', FROM_UNIXTIME('1633866364'), '378.61', '0', '378.61', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2728072016331065211439049', FROM_UNIXTIME('1633106521'), '677.38', '0', '677.38', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('1023803216333723909183358', FROM_UNIXTIME('1633372390'), '378.26', '0', '378.26', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('6519948616334139732986219', FROM_UNIXTIME('1633413973'), '421.43', '0', '421.43', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('0214005216333385386210325', FROM_UNIXTIME('1633338538'), '387.29', '0', '387.29', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8070327916332083936082222', FROM_UNIXTIME('1633208393'), '353.09', '0', '353.09', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('6116722416335160360268520', FROM_UNIXTIME('1633516036'), '470.78', '0', '470.78', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2080283616335974226705321', FROM_UNIXTIME('1633597422'), '93.91', '0', '93.91', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('5402790816333903266205975', FROM_UNIXTIME('1633390326'), '187.93', '0', '187.93', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2054170216331280561908518', FROM_UNIXTIME('1633128056'), '86.27', '0', '86.27', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9367795416333186587147688', FROM_UNIXTIME('1633318658'), '174.85', '0', '174.85', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('5588097916335968000105646', FROM_UNIXTIME('1633596800'), '136.28', '0', '136.28', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('1576496316335320877525664', FROM_UNIXTIME('1633532087'), '209.63', '0', '209.63', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('0862082616333925994861908', FROM_UNIXTIME('1633392599'), '141.41', '0', '141.41', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('1443451016334777356719196', FROM_UNIXTIME('1633477735'), '102.88', '0', '102.88', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('6217436616334131516286213', FROM_UNIXTIME('1633413151'), '135.67', '0', '135.67', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7424017416337811210316393', FROM_UNIXTIME('1633781121'), '186.95', '0', '186.95', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8563950116336825141938473', FROM_UNIXTIME('1633682514'), '173.42', '0', '173.42', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8245118916335934904076485', FROM_UNIXTIME('1633593490'), '26.4', '0', '26.4', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7759618416337433315931967', FROM_UNIXTIME('1633743331'), '37.95', '0', '37.95', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('1070614716334316500209196', FROM_UNIXTIME('1633431650'), '49.79', '0', '49.79', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9658984016331025882699416', FROM_UNIXTIME('1633102588'), '116.37', '0', '116.37', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2579597516334340819213356', FROM_UNIXTIME('1633434081'), '72.31', '0', '72.31', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('4374757016333291682130389', FROM_UNIXTIME('1633329168'), '45.19', '0', '45.19', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7905329416337204142805330', FROM_UNIXTIME('1633720414'), '383.65', '0', '383.65', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2416211216338326850603522', FROM_UNIXTIME('1633832685'), '372.96', '0', '372.96', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7980973616337238103591059', FROM_UNIXTIME('1633723810'), '355.01', '0', '355.01', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('6599912716332197636545535', FROM_UNIXTIME('1633219763'), '89.05', '0', '89.05', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2739026116332667241374858', FROM_UNIXTIME('1633266724'), '333.64', '0', '333.64', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9020742516336010089367240', FROM_UNIXTIME('1633601008'), '52.8', '0', '52.8', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2604670616332738181041732', FROM_UNIXTIME('1633273818'), '51.66', '0', '51.66', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2338053616335166315041030', FROM_UNIXTIME('1633516631'), '583.65', '0', '583.65', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7572766216331486372469474', FROM_UNIXTIME('1633148637'), '789.61', '0', '789.61', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('6540743116338720481652903', FROM_UNIXTIME('1633872048'), '48.45', '0', '48.45', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2451342016336297242137056', FROM_UNIXTIME('1633629724'), '44.55', '0', '44.55', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9429433516337904390784298', FROM_UNIXTIME('1633790439'), '77.97', '0', '77.97', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('9477745116337735827707790', FROM_UNIXTIME('1633773582'), '21.15', '0', '21.15', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('3914775916337827061417025', FROM_UNIXTIME('1633782706'), '32.85', '0', '32.85', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('7760442616331063994247523', FROM_UNIXTIME('1633106399'), '99.84', '0', '99.84', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8059523316338243794602570', FROM_UNIXTIME('1633824379'), '48.45', '0', '48.45', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('0527591916335110604172909', FROM_UNIXTIME('1633511060'), '307.05', '0', '307.05', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('1260640416335606275159910', FROM_UNIXTIME('1633560627'), '239.01', '0', '239.01', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('2239839116335726338639893', FROM_UNIXTIME('1633572633'), '727.4', '0', '727.4', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('4785338416334707864184155', FROM_UNIXTIME('1633470786'), '289.07', '0', '289.07', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8288175216334509871110823', FROM_UNIXTIME('1633450987'), '293.79', '0', '293.79', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('0766951016333796182092382', FROM_UNIXTIME('1633379618'), '585.6', '0', '585.6', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('4146965616333889308638020', FROM_UNIXTIME('1633388930'), '484.06', '0', '484.06', 'finished');
+INSERT INTO `orderdetail` (`order_id`, `order_time`, `order_price`, `tax`, `final_total`, `status`) VALUES ('8763300416336993460889825', FROM_UNIXTIME('1633699346'), '414.76', '0', '414.76', 'finished');
+==================================================
+order_medicine SQL:
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0628419016334543915870501', 'E59FCNY5ILRY', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0628419016334543915870501', '8ACIORIGSR0Y', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9018620116333746936951344', '8ACIORIGSR0Y', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5385892016335744921093594', '45Z11J0BASMK', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5385892016335744921093594', '8ACIORIGSR0Y', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9609902016334197262463660', '7KINPC321XTR', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8439799616336074930755190', 'YXE4BA0B49OF', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('6536593516338224802238839', 'FWR4F1VYAJTW', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('1780990916336482694800276', 'YXE4BA0B49OF', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0421656516335735729513709', 'FWR4F1VYAJTW', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7881333916331892567324352', 'UQDE1NHIT0H3', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7881333916331892567324352', 'FWR4F1VYAJTW', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('6829154316330970452255960', '3NP9UY9TSA8A', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('6829154316330970452255960', 'FWR4F1VYAJTW', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9863416316333541458012622', '37A8QSOPSPTV', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9863416316333541458012622', 'FWR4F1VYAJTW', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5445580716331694652578946', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2508843716338397591239564', '37A8QSOPSPTV', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2508843716338397591239564', '70FCNF9ZQC0C', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9189805216333633425592771', 'HTQEBULS304F', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9832018216331212929530554', 'E59FCNY5ILRY', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9832018216331212929530554', 'HTQEBULS304F', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8110937616330823294905008', 'YXE4BA0B49OF', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9579093116337097220113012', 'UQDE1NHIT0H3', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5060592016334866962225657', 'YXE4BA0B49OF', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9689316616332483826266588', 'FWR4F1VYAJTW', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7796117016331146203581124', '7KINPC321XTR', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2432974316333881377204174', 'FWR4F1VYAJTW', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0344343616332390457788643', 'FWR4F1VYAJTW', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0344343616332390457788643', '7SVF64IVF2ZY', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('6875480316336162831450314', 'UQDE1NHIT0H3', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('3026235216331766018719345', '6HZFQ847PK0T', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('3844618516333353556128310', '7SVF64IVF2ZY', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8001459916338109271882457', '3NP9UY9TSA8A', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8001459916338109271882457', '7SVF64IVF2ZY', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2556450416331597253255084', 'HTQEBULS304F', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2556450416331597253255084', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2988096916337462676264457', '6HZFQ847PK0T', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2988096916337462676264457', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9239303616332577206341770', '3NP9UY9TSA8A', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9239303616332577206341770', '70FCNF9ZQC0C', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5238409116333209052626661', '70FCNF9ZQC0C', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4075871616335819030700036', '7SVF64IVF2ZY', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4075871616335819030700036', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4090055316335197230085690', 'UQDE1NHIT0H3', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4090055316335197230085690', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0754031016332942190047765', '56XC3HZMA343', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8233859916338308448841208', '3NP9UY9TSA8A', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('1634634416337066717301322', '37A8QSOPSPTV', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('1634634416337066717301322', '3NP9UY9TSA8A', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2560186616336080195481138', '7KINPC321XTR', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5625625716335049173463886', '56XC3HZMA343', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('1184600516336131973257347', '45Z11J0BASMK', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('1184600516336131973257347', '7SVF64IVF2ZY', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4869362916338665748705215', '70FCNF9ZQC0C', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9980301116331705062780322', '6HZFQ847PK0T', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9980301116331705062780322', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9971634316336585787424754', '7KINPC321XTR', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9971634316336585787424754', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8278662416336894128625652', 'FWR4F1VYAJTW', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8278662416336894128625652', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8531113416333565138050937', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('3097980116332604395934491', '45Z11J0BASMK', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7675969116333468892276727', '6HZFQ847PK0T', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7675969116333468892276727', '56XC3HZMA343', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4569605116338569379921217', '56XC3HZMA343', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0319181516331493867101823', '37A8QSOPSPTV', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0319181516331493867101823', '56XC3HZMA343', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4727558216337502410075496', 'FWR4F1VYAJTW', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2855017016336066319027043', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2855017016336066319027043', '8ACIORIGSR0Y', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7924301416331446071112173', 'UQDE1NHIT0H3', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8583741516334252726872369', 'E59FCNY5ILRY', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7198933416332269611525204', '7SVF64IVF2ZY', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5624076416335409780645592', 'HTQEBULS304F', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5385841016332313382472769', 'YXE4BA0B49OF', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5385841016332313382472769', 'HTQEBULS304F', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0157795216338362057722206', 'FWR4F1VYAJTW', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7503595416338028300892795', 'E59FCNY5ILRY', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7503595416338028300892795', 'HTQEBULS304F', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4022158616332012138736614', 'HTQEBULS304F', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('3191266516337870507499739', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4179072616334839785500617', 'UQDE1NHIT0H3', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('1766109316337122194758010', '70FCNF9ZQC0C', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5832942416338400096256055', '8ACIORIGSR0Y', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7525618216331148199381874', 'LZAQFRFRL38K', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4507501016335457200860127', 'UQDE1NHIT0H3', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('3346744916332346420074001', '37A8QSOPSPTV', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('3346744916332346420074001', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('6972174616338719045665730', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2106034916336386542982726', '45Z11J0BASMK', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2318068216338663645800232', '56XC3HZMA343', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2318068216338663645800232', 'HTQEBULS304F', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2728072016331065211439049', 'HTQEBULS304F', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('1023803216333723909183358', 'UQDE1NHIT0H3', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('6519948616334139732986219', '37A8QSOPSPTV', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0214005216333385386210325', 'FWR4F1VYAJTW', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8070327916332083936082222', '8ACIORIGSR0Y', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('6116722416335160360268520', 'YXE4BA0B49OF', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2080283616335974226705321', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2080283616335974226705321', 'E59FCNY5ILRY', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5402790816333903266205975', '37A8QSOPSPTV', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5402790816333903266205975', 'E59FCNY5ILRY', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2054170216331280561908518', 'E59FCNY5ILRY', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9367795416333186587147688', 'HTQEBULS304F', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('5588097916335968000105646', '56XC3HZMA343', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('1576496316335320877525664', '6HZFQ847PK0T', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('1576496316335320877525664', '56XC3HZMA343', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0862082616333925994861908', '37A8QSOPSPTV', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('1443451016334777356719196', 'FWR4F1VYAJTW', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('6217436616334131516286213', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7424017416337811210316393', '37A8QSOPSPTV', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8563950116336825141938473', '7KINPC321XTR', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8563950116336825141938473', '45Z11J0BASMK', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8245118916335934904076485', '45Z11J0BASMK', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7759618416337433315931967', '3NP9UY9TSA8A', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('1070614716334316500209196', '56XC3HZMA343', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9658984016331025882699416', '45Z11J0BASMK', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9658984016331025882699416', '56XC3HZMA343', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2579597516334340819213356', '6HZFQ847PK0T', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2579597516334340819213356', 'E59FCNY5ILRY', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4374757016333291682130389', 'E59FCNY5ILRY', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7905329416337204142805330', '56XC3HZMA343', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7905329416337204142805330', 'HTQEBULS304F', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2416211216338326850603522', '70FCNF9ZQC0C', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7980973616337238103591059', 'FWR4F1VYAJTW', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('6599912716332197636545535', '37A8QSOPSPTV', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('6599912716332197636545535', '8ACIORIGSR0Y', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2739026116332667241374858', '7KINPC321XTR', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9020742516336010089367240', '8ACIORIGSR0Y', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2604670616332738181041732', '6HZFQ847PK0T', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2338053616335166315041030', '7KINPC321XTR', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7572766216331486372469474', '70FCNF9ZQC0C', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7572766216331486372469474', '7KINPC321XTR', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('6540743116338720481652903', 'FWR4F1VYAJTW', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('6540743116338720481652903', 'E59FCNY5ILRY', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2451342016336297242137056', '8ACIORIGSR0Y', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9429433516337904390784298', '7SVF64IVF2ZY', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('9477745116337735827707790', '45Z11J0BASMK', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('3914775916337827061417025', '3NP9UY9TSA8A', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('7760442616331063994247523', '56XC3HZMA343', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8059523316338243794602570', 'FWR4F1VYAJTW', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0527591916335110604172909', '70FCNF9ZQC0C', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0527591916335110604172909', 'LZAQFRFRL38K', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('1260640416335606275159910', 'LZAQFRFRL38K', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('2239839116335726338639893', '7KINPC321XTR', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4785338416334707864184155', '56XC3HZMA343', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8288175216334509871110823', '37A8QSOPSPTV', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0766951016333796182092382', 'FWR4F1VYAJTW', '1');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('0766951016333796182092382', '7KINPC321XTR', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4146965616333889308638020', 'YXE4BA0B49OF', '3');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('4146965616333889308638020', '7KINPC321XTR', '2');
+INSERT INTO `order_medicine` (`order_id`, `medicine_sku`, `amount`) VALUES ('8763300416336993460889825', '6HZFQ847PK0T', '1');
+==================================================
+pharmacy_order SQL:
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '0628419016334543915870501');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '9018620116333746936951344');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '5385892016335744921093594');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '9609902016334197262463660');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '8439799616336074930755190');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '6536593516338224802238839');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '1780990916336482694800276');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '0421656516335735729513709');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '7881333916331892567324352');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '6829154316330970452255960');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '9863416316333541458012622');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '5445580716331694652578946');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '2508843716338397591239564');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '9189805216333633425592771');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '9832018216331212929530554');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '8110937616330823294905008');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '9579093116337097220113012');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '5060592016334866962225657');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '9689316616332483826266588');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '7796117016331146203581124');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '2432974316333881377204174');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '0344343616332390457788643');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '6875480316336162831450314');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '3026235216331766018719345');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '3844618516333353556128310');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '8001459916338109271882457');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '2556450416331597253255084');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '2988096916337462676264457');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '9239303616332577206341770');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '5238409116333209052626661');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '4075871616335819030700036');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '4090055316335197230085690');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '0754031016332942190047765');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '8233859916338308448841208');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '1634634416337066717301322');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '2560186616336080195481138');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '5625625716335049173463886');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '1184600516336131973257347');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '4869362916338665748705215');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '9980301116331705062780322');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '9971634316336585787424754');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '8278662416336894128625652');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '8531113416333565138050937');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '3097980116332604395934491');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '7675969116333468892276727');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '4569605116338569379921217');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '0319181516331493867101823');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '4727558216337502410075496');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '2855017016336066319027043');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '7924301416331446071112173');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '8583741516334252726872369');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '7198933416332269611525204');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '5624076416335409780645592');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '5385841016332313382472769');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '0157795216338362057722206');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '7503595416338028300892795');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '4022158616332012138736614');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '3191266516337870507499739');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '4179072616334839785500617');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '1766109316337122194758010');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '5832942416338400096256055');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '7525618216331148199381874');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '4507501016335457200860127');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '3346744916332346420074001');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '6972174616338719045665730');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '2106034916336386542982726');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '2318068216338663645800232');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '2728072016331065211439049');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '1023803216333723909183358');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '6519948616334139732986219');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '0214005216333385386210325');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '8070327916332083936082222');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '6116722416335160360268520');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '2080283616335974226705321');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '5402790816333903266205975');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '2054170216331280561908518');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '9367795416333186587147688');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '5588097916335968000105646');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '1576496316335320877525664');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '0862082616333925994861908');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '1443451016334777356719196');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '6217436616334131516286213');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '7424017416337811210316393');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '8563950116336825141938473');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '8245118916335934904076485');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '7759618416337433315931967');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '1070614716334316500209196');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '9658984016331025882699416');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '2579597516334340819213356');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '4374757016333291682130389');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '7905329416337204142805330');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '2416211216338326850603522');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '7980973616337238103591059');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '6599912716332197636545535');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '2739026116332667241374858');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '9020742516336010089367240');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '2604670616332738181041732');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '2338053616335166315041030');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '7572766216331486372469474');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '6540743116338720481652903');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '2451342016336297242137056');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '9429433516337904390784298');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '9477745116337735827707790');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('3', '3914775916337827061417025');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '7760442616331063994247523');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '8059523316338243794602570');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '0527591916335110604172909');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '1260640416335606275159910');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('4', '2239839116335726338639893');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '4785338416334707864184155');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '8288175216334509871110823');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('1', '0766951016333796182092382');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('5', '4146965616333889308638020');
+INSERT INTO `pharmacy_order` (`store_id`, `order_id`) VALUES ('2', '8763300416336993460889825');
